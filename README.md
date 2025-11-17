@@ -10,6 +10,10 @@ Currently, my focus has been on **Go** as I continue to expand my expertise in b
 <div align="center">
 
 ** Languages and Tools I Use **
+
+<br/>
+<br/>
+
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
