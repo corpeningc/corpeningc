@@ -9,7 +9,7 @@ Currently, my focus has been on **Go** as I continue to expand my expertise in b
 
 <div align="center">
 
-** Languages and Tools I Use **
+**Languages and Tools I Use**
 
 <br/>
 <br/>
