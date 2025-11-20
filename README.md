@@ -42,11 +42,10 @@ I like to build stuff, and my latest fixation has been on **Go**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=corpeningc&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corpeningc&layout=compact&theme=default&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=corpeningc&theme=default" alt="GitHub Streak" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corpeningc&layout=compact&theme=default&count_private=true" alt="Top Languages" />
 </p>
 
 </div>
