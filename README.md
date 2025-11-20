@@ -36,4 +36,5 @@ I like to build stuff, and my latest fixation has been on **Go**.
     <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /></td>
     </tr>
 </table>
+
 </div>
