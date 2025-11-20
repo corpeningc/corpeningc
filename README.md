@@ -2,7 +2,7 @@
 
 A **Full Stack Software Engineer** with a strong bias toward backend development.
 
-Currently, my focus has been on **Go** as I continue to expand my expertise in building scalable and efficient systems.
+I like to build stuff, and my latest fixation has been on **Go**. 
 
 <br/>
 <br/>
@@ -18,7 +18,7 @@ Currently, my focus has been on **Go** as I continue to expand my expertise in b
     <tr>
     <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></td>
     <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" /></td>
+    <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" /></td>
     </tr>
     <tr>
     <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></td>
