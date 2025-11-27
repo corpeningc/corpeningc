@@ -45,7 +45,7 @@ I like to build stuff, and my latest fixation has been on **Go**.
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats-six-neon-50.vercel.app/api/top-langs/?username=corpeningc&layout=compact&theme=default&count_private=true" alt="Top Languages" />
+	<img src="https://github-readme-stats-six-neon-50.vercel.app/api/top-langs/?username=corpeningc&layout=compact&theme=default&count_private=true&exclude_repo=%22github-readme-stats%22" alt="Top Languages" />
 </p>
 
 </div>
