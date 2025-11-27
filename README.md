@@ -41,11 +41,8 @@ I like to build stuff, and my latest fixation has been on **Go**.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-six-neon-50.vercel.app/api?username=corpeningc&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=dracula" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-	<img src="https://github-readme-stats-six-neon-50.vercel.app/api/top-langs/?username=corpeningc&hide_progress=true&theme=dracula" alt="Top Languages" />
+  <img align="center" height=200 src="https://github-readme-stats-six-neon-50.vercel.app/api?username=corpeningc&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=dracula" alt="GitHub Stats" />
+<img align="center" height=200 src="https://github-readme-stats-six-neon-50.vercel.app/api/top-langs/?username=corpeningc&hide_progress=true&theme=dracula" alt="Top Languages" />
 </p>
 
 </div>
