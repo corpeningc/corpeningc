@@ -2,7 +2,7 @@
 
 A **Full Stack Software Engineer** with a strong bias toward backend development.
 
-I like to build stuff, and my latest fixation has been on **Go**.
+I like to build stuff, and my latest fixation has been on **Go** and **Astro**.
 
 ---
 
