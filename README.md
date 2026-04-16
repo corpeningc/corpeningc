@@ -28,24 +28,4 @@ I like to build stuff, and my latest fixation has been on **Go** and **Astro**.
 [![In The Swing Golf](https://img.shields.io/badge/🏌️_In_The_Swing_Golf-Connecting_golfers_to_charity_events-2E7D32?style=flat)](https://intheswing.golf)
 [![Corpening Solutions](https://img.shields.io/badge/💼_Corpening_Solutions-Custom_websites_&_software-1976D2?style=flat)](https://corpening.solutions)
 
-### Currently Exploring
-
-![Current Focus](https://img.shields.io/badge/Cloud_Architecture_(AWS)_&_Backend_Services_in_Go-FF6B6B?style=flat&logo=go&logoColor=white)
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caleb_Corpening-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/caleb-corpening)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-six-neon-50.vercel.app/api/top-langs/?username=corpeningc&hide_progress=true&theme=dracula" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-six-neon-50.vercel.app/api?username=corpeningc&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=dracula" alt="GitHub Stats" />
-</p>
-
 </div>
